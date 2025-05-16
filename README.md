@@ -1,3 +1,5 @@
+View: https://cis-iis2.temple.edu/Fall2024/CIS3342_tug33775/Project2/OrderPage.aspx
+
 This project represents a comprehensive coffee shop management application that has undergone significant enhancements:
 
 Database Integration:
